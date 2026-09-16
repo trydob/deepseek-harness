@@ -17,6 +17,5 @@ export default defineConfig({
     disableConsoleIntercept: true,
     hookTimeout: 180_000,
     testTimeout: 600_000,
-    
   },
 })
